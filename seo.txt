@@ -1,0 +1,7 @@
+Index: le puse una descripcion de la pagina en general y le agregue los keywords
+
+
+productos: añadi descipcion de la tienda y keywords
+
+
+servicios: descripcion de lo que se ofrece en el spa y keywords
